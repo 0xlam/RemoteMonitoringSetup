@@ -61,7 +61,6 @@ Example:
 index = <YOUR_INDEX>
 ```
 **outputs.conf**: Replace <SPLUNK_INDEXER_IP> with your Splunk server IP.
-These files act as templates; you can adjust as needed for your environment.
 Example:
 ```
 server = <SPLUNK_INDEXER_IP>:9997
